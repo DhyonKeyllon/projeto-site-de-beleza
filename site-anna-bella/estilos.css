@@ -15,6 +15,7 @@ body {
 #conteudo {
     background-color: #e8e8d9;
     padding: 10px;
+    
 }
 #rodape {
     margin: 32px;
@@ -30,7 +31,7 @@ body {
 }
 
 .bordaimg{
-    border: 16px solid gray;
+    border: 10px solid #c3c3ae;
     
 }
 a {
@@ -38,6 +39,12 @@ a {
     color: #4b566a;
     font-weight: bold;
     padding: 5px;
+}
+h1 {
+
+    color: #828271;
+    font-size: 1.2em;
+
 }
 
 
