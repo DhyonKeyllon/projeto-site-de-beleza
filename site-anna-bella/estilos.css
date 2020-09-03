@@ -1,30 +1,23 @@
 /* ESTRUTURA DA PAGINA */
-#fundo {
-    background: url("img/fundo.png") repeat right;
+body {
+    background: #d2d2c1 url("img/fundo.png") repeat right;
+    font: 16px Arial, Helvetica, sans-serif;
+}
 
+#principal {
+    width: 900px;
 }
 #cabecalho{
-    color: rgba(130, 136, 119, 0.863);
-    background-color: rgb(195, 197, 190);
-    background-size: 870px;
-    border: 17px solid rgb(195, 197, 190);
-    width: 842px;   
-    text-decoration: none;
-    font-size: 22px;
-    padding: 12px;
-    text-align: left;
-    font-family: Arial, Helvetica, sans-serif
+    background: #c5c5b2;
+    border: 1px solid #c5c5b2;
+    padding: 18px;
 }
-.conteudo {
-    border: 13px solid white;
-    width: 874px;
-    background-color: white;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+#conteudo {
+    background-color: #e8e8d9;
+    padding: 10px;
 }
 #rodape {
     margin: 32px;
-    width: 874px;
     text-align: center;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-weight: bold  ;
@@ -39,6 +32,12 @@
 .bordaimg{
     border: 16px solid gray;
     
+}
+a {
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+    padding: 5px;
 }
 
 
