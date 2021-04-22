@@ -15,7 +15,7 @@
 ## Sobre o projeto
 ### Tela inicial
 
-<img src="site-anna-bella/img/tela-inicial-annabela" ></img>
+<img src="site-anna-bella/img/tela-inicial-annabela.PNG" ></img>
 
 ### Recursos
 
